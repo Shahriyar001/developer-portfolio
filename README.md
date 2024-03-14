@@ -2,8 +2,4 @@
 ```
 start live project
 ```
-### to start in localhost
-
-```
-npm run dev
-```
+it was build for developing purpose
