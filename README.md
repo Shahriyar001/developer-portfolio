@@ -1,4 +1,4 @@
-### to atart in localhost  
+### to start in localhost  
 ```
 start live project
 ```
