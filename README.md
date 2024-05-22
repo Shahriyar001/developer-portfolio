@@ -2,4 +2,4 @@
 ```
 start live project
 ```
-it was build for developing purpose
+it was build for developing ...
