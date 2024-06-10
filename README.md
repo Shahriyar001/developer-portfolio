@@ -3,4 +3,4 @@
 start live project
 ```
 it was build for developing ...
-new update coming soos
+new update coming soon
