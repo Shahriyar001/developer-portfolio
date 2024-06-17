@@ -1,4 +1,4 @@
-### to start in we
+### to start in localhost
 ```
 start live project
 ```
