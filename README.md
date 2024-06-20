@@ -2,5 +2,5 @@
 ```
 start live project
 ```
-it was build for developing ...
+it was build for development
 new update coming soon
